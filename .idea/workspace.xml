@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/004 Dissecando uma variável.py" line="8" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1b58bcea-4f98-45ff-8cc6-e31c18b4e183" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,13 +31,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/003 Somando números.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/004 Dissecando uma variável.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/005 Antecessor e Sucessor.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -55,14 +72,15 @@
         <option value="$PROJECT_DIR$/ex001.py" />
         <option value="$PROJECT_DIR$/002 Respondendo ao usuário.py" />
         <option value="$PROJECT_DIR$/003 Somando números.py" />
+        <option value="$PROJECT_DIR$/004 Dissecando uma variável.py" />
+        <option value="$PROJECT_DIR$/005 Antecessor e Sucessor.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1340" />
-    <option name="height" value="688" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="699" />
+    <option name="width" value="651" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -96,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.003 Somando números">
+  <component name="RunManager" selected="Python.004 Dissecando uma variável">
     <configuration name="002 Respondendo ao usuário" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonClasses" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,6 +157,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="004 Dissecando uma variável" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonClasses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/004 Dissecando uma variável.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonClasses" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,6 +201,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.004 Dissecando uma variável" />
         <item itemvalue="Python.003 Somando números" />
         <item itemvalue="Python.002 Respondendo ao usuário" />
         <item itemvalue="Python.ex001" />
@@ -182,15 +222,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="699" y="0" width="651" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24289985" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1990212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33388704" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -225,6 +265,16 @@
           <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004 Dissecando uma variável.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005 Antecessor e Sucessor.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
