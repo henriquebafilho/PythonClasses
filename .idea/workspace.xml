@@ -14,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/005 Antecessor e Sucessor.py">
+        <entry file="file://$PROJECT_DIR$/006 Dobro triplo e raiz quadrada.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+            <state relative-caret-position="153">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -42,6 +42,7 @@
         <option value="$PROJECT_DIR$/003 Somando números.py" />
         <option value="$PROJECT_DIR$/004 Dissecando uma variável.py" />
         <option value="$PROJECT_DIR$/005 Antecessor e Sucessor.py" />
+        <option value="$PROJECT_DIR$/006 Dobro triplo e raiz quadrada.py" />
       </list>
     </option>
   </component>
@@ -82,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.005 Antecessor e Sucessor">
+  <component name="RunManager" selected="Python.006 Dobro triplo e raiz quadrada">
     <configuration name="002 Respondendo ao usuário" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonClasses" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="006 Dobro triplo e raiz quadrada" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonClasses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\hfogo_000\Documents\GitHub\PythonClasses\001 Printando mensagens.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/006 Dobro triplo e raiz quadrada.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.006 Dobro triplo e raiz quadrada" />
         <item itemvalue="Python.005 Antecessor e Sucessor" />
         <item itemvalue="Python.004 Dissecando uma variável" />
         <item itemvalue="Python.003 Somando números" />
         <item itemvalue="Python.002 Respondendo ao usuário" />
-        <item itemvalue="Python.ex001" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +267,14 @@
     <entry file="file://$PROJECT_DIR$/005 Antecessor e Sucessor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/006 Dobro triplo e raiz quadrada.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
