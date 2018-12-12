@@ -2,4 +2,4 @@
 salario = float(input('Insira seu salário: R$'))
 total = salario + (salario * (15/100))
 
-print('Seu novo salário é R$', total)
+print('Seu novo salário é R${:.2f}'.format(total))
