@@ -4,6 +4,6 @@
 import random
 
 alunos = ["Allan", "JV", "Peru", "Rickão"]
-aluno = random.random(alunos)
+aluno = random.choice(alunos)
 
 print(aluno)
