@@ -14,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/021 Tocando um MP3.py">
+        <entry file="file://$PROJECT_DIR$/022 Analisador de Textos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="272">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -66,6 +66,7 @@
         <option value="$PROJECT_DIR$/020 Sorteando uma ordem na lista.py" />
         <option value="$PROJECT_DIR$/021 Tocando um MP3/021 Tocando um MP3.py" />
         <option value="$PROJECT_DIR$/021 Tocando um MP3.py" />
+        <option value="$PROJECT_DIR$/022 Analisador de Textos.py" />
       </list>
     </option>
   </component>
@@ -111,28 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.021 Tocando um MP3">
-    <configuration name="017 Catetos e Hipotenusas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonClasses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/017 Catetos e Hipotenusas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.022 Analisador de Textos">
     <configuration name="018 Seno, cosseno e tangente" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonClasses" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,13 +197,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="022 Analisador de Textos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonClasses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/022 Analisador de Textos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.022 Analisador de Textos" />
         <item itemvalue="Python.021 Tocando um MP3" />
         <item itemvalue="Python.020 Sorteando uma ordem na lista" />
         <item itemvalue="Python.019 Sorteando um item na lista" />
         <item itemvalue="Python.018 Seno, cosseno e tangente" />
-        <item itemvalue="Python.017 Catetos e Hipotenusas" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +243,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.088541664" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -423,6 +423,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/022 Analisador de Textos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
         </state>
       </provider>
     </entry>
