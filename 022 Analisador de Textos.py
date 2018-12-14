@@ -4,10 +4,10 @@
 -Quantas letras ao todo (sem considerar espaços)
 -Quantas letras tem o primeiro nome'''
 
-nome = input('Insira o nome completo da pessoa: ')
+nome = input('Insira o nome completo da pessoa: ').strip()
 maiusculo = nome.upper()
 minusculo = nome.lower()
-qtdSemEspaco = len(nome) - nome.count(" ")
+qtdSemEspaco = len(nome) - nome.count(' ')
 primeiroNome = nome.split()[0]
 qtdPrimeiroNome = len(primeiroNome)
 

@@ -5,11 +5,11 @@ Dezena: 3
 Centena: 8
 Milhar: 1'''
 
-numero = input('Insira um número inteiro de 0 a 9999: ')
-unidade = numero[len(numero)-1]
-dezena = numero[len(numero)-2]
-centena = numero[len(numero)-3]
-milhar = numero[len(numero)-4]
+numero = int(input('Insira um número inteiro de 0 a 9999: '))
+unidade = numero // 1 % 10
+dezena = numero // 10 % 10
+centena = numero // 100 % 10
+milhar = numero // 1000 % 10
 
 print('Unidade:', unidade)
 print('Dezena:', dezena)

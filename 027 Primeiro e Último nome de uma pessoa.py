@@ -3,7 +3,7 @@ o primeiro e o último nome separadamente.
 Ex.: Ana Maria de Souza
 Primeiro = Ana
 Último = Souza'''
-nomeCompleto = input('Insira o nome completo da pessoa: ')
+nomeCompleto = input('Insira o nome completo da pessoa: ').strip()
 nomeCompleto = nomeCompleto.split()
 primeiro = nomeCompleto[0]
 ultimo = nomeCompleto[len(nomeCompleto)-1]
