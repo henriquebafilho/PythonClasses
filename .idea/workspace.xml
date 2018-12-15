@@ -12,12 +12,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/035 Analisando Triângulo.py">
+        <entry file="file://$PROJECT_DIR$/028 Jogo da Adivinhação.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="170">
+              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+              <folding>
+                <element signature="e#240#253#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,7 +75,6 @@
         <option value="$PROJECT_DIR$/025 Procurando uma String dentro de outra String.py" />
         <option value="$PROJECT_DIR$/026 Primeira e última ocorrência de uma string.py" />
         <option value="$PROJECT_DIR$/027 Primeiro e Último nome de uma pessoa.py" />
-        <option value="$PROJECT_DIR$/028 Jogo da Adivinhação.py" />
         <option value="$PROJECT_DIR$/029 Radar Eletrônico.py" />
         <option value="$PROJECT_DIR$/030 Par ou Ímpar.py" />
         <option value="$PROJECT_DIR$/031 Custo da Viagem.py" />
@@ -80,6 +82,7 @@
         <option value="$PROJECT_DIR$/033 Maior e Menos Valores.py" />
         <option value="$PROJECT_DIR$/034 Aumentos Múltiplos.py" />
         <option value="$PROJECT_DIR$/035 Analisando Triângulo.py" />
+        <option value="$PROJECT_DIR$/028 Jogo da Adivinhação.py" />
       </list>
     </option>
   </component>
@@ -94,7 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,6 +108,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -120,8 +123,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.035 Analisando Triângulo">
-    <configuration name="031 Custo da Viagem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.028 Jogo da Adivinhação">
+    <configuration name="028 Jogo da Adivinhação" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonClasses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/031 Custo da Viagem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/028 Jogo da Adivinhação.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.028 Jogo da Adivinhação" />
         <item itemvalue="Python.035 Analisando Triângulo" />
         <item itemvalue="Python.034 Aumentos Múltiplos" />
         <item itemvalue="Python.033 Maior e Menos Valores" />
         <item itemvalue="Python.032 Ano Bissexto" />
-        <item itemvalue="Python.031 Custo da Viagem" />
       </list>
     </recent_temporary>
   </component>
@@ -251,13 +254,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.088541664" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32405892" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32405892" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -470,13 +474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/028 Jogo da Adivinhação.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/029 Radar Eletrônico.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -522,7 +519,17 @@
     <entry file="file://$PROJECT_DIR$/035 Analisando Triângulo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/028 Jogo da Adivinhação.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding>
+            <element signature="e#240#253#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
