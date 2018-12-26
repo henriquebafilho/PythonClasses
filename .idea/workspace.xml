@@ -2,6 +2,7 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/004 Dissecando uma variável.py" line="8" />
+    <bookmark url="file://$PROJECT_DIR$/036 Aprovando Empréstimo.py" line="17" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b58bcea-4f98-45ff-8cc6-e31c18b4e183" name="Default Changelist" comment="" />
@@ -14,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/034 Aumentos Múltiplos.py">
+        <entry file="file://$PROJECT_DIR$/036 Aprovando Empréstimo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="221">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -80,6 +81,9 @@
         <option value="$PROJECT_DIR$/035 Analisando Triângulo.py" />
         <option value="$PROJECT_DIR$/028 Jogo da Adivinhação.py" />
         <option value="$PROJECT_DIR$/029 Radar Eletrônico.py" />
+        <option value="$PROJECT_DIR$/../siteJogos/Inicio.html" />
+        <option value="$PROJECT_DIR$/venv/036 Aprovando Empréstimo.py" />
+        <option value="$PROJECT_DIR$/036 Aprovando Empréstimo.py" />
       </list>
     </option>
   </component>
@@ -94,6 +98,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,12 +106,34 @@
               <item name="PythonClasses" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonClasses" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonClasses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonClasses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="PythonClasses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (PythonClasses) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="PythonClasses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (PythonClasses) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../siteJogos/Inicio.html" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.028 Jogo da Adivinhação">
+  <component name="RunManager" selected="Python.036 Aprovando Empréstimo">
     <configuration name="028 Jogo da Adivinhação" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonClasses" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,27 +161,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/028 Jogo da Adivinhação.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="032 Ano Bissexto" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonClasses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/032 Ano Bissexto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,13 +232,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="036 Aprovando Empréstimo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonClasses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/036 Aprovando Empréstimo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.036 Aprovando Empréstimo" />
         <item itemvalue="Python.028 Jogo da Adivinhação" />
         <item itemvalue="Python.035 Analisando Triângulo" />
         <item itemvalue="Python.034 Aumentos Múltiplos" />
         <item itemvalue="Python.033 Maior e Menos Valores" />
-        <item itemvalue="Python.032 Ano Bissexto" />
       </list>
     </recent_temporary>
   </component>
@@ -250,10 +277,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.088541664" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08893871" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -525,8 +551,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/034 Aumentos Múltiplos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/036 Aprovando Empréstimo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../siteJogos/Inicio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/036 Aprovando Empréstimo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
