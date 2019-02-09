@@ -8,9 +8,10 @@ pagamento = int(input('''Insira o número correspondente à forma de pagamento:
                         1 - à vista dinheiro/cheque: 10% de desconto 
                         2 - à vista no cartão: 5% de desconto 
                         3 - em até 2x no cartão: preço formal 
-                        4 - 3x ou mais no cartão: 20% de juros'''))
+                        4 - 3x ou mais no cartão: 20% de juros
+                        '''))
 while pagamento < 1 or pagamento > 4:
-    pagamento = input('''Insira um valor válido: ''')
+    pagamento = int(input('''Erro! Insira um valor válido: '''))
 
 if pagamento == 1:
     preçoFinal = preçoNormal - (preçoNormal * 10 / 100)
